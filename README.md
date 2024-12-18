@@ -8,13 +8,15 @@
 - Dataset
   
   The dataset contains the following columns:
+  
 
-TV: Advertising budget allocated to TV (in thousands of dollars).
+  - TV: Advertising budget allocated to TV (in thousands of dollars).
 
-Radio: Advertising budget allocated to radio (in thousands of dollars).
+  - Radio: Advertising budget allocated to radio (in thousands of dollars).
 
-Newspaper: Advertising budget allocated to newspapers (in thousands of dollars).
+  - Newspaper: Advertising budget allocated to newspapers (in thousands of dollars).
 
-Sales: Sales of the product (in thousands of units).
+  - Sales: Sales of the product (in thousands of units).
 - Result
-The model predicts sales based on the TV advertising budget.
+  
+  The model predicts sales based on the TV advertising budget.
